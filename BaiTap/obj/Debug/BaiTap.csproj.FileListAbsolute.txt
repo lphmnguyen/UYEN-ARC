@@ -1,0 +1,11 @@
+D:\LTWin\tuan5\BaiTap\bin\Debug\BaiTap.exe.config
+D:\LTWin\tuan5\BaiTap\bin\Debug\BaiTap.exe
+D:\LTWin\tuan5\BaiTap\bin\Debug\BaiTap.pdb
+D:\LTWin\tuan5\BaiTap\obj\Debug\BaiTap.csproj.AssemblyReference.cache
+D:\LTWin\tuan5\BaiTap\obj\Debug\BaiTap.Properties.Resources.resources
+D:\LTWin\tuan5\BaiTap\obj\Debug\BaiTap.csproj.GenerateResource.cache
+D:\LTWin\tuan5\BaiTap\obj\Debug\BaiTap.csproj.CoreCompileInputs.cache
+D:\LTWin\tuan5\BaiTap\obj\Debug\BaiTap.exe
+D:\LTWin\tuan5\BaiTap\obj\Debug\BaiTap.pdb
+D:\LTWin\tuan5\BaiTap\obj\Debug\BaiTap.frmMain.resources
+D:\LTWin\tuan5\BaiTap\obj\Debug\BaiTap.frmAdd.resources

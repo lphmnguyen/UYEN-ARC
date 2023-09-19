@@ -1,0 +1,10 @@
+D:\LTWin\tuan5\ContextMenuDemo\bin\Debug\ContextMenuDemo.exe.config
+D:\LTWin\tuan5\ContextMenuDemo\bin\Debug\ContextMenuDemo.exe
+D:\LTWin\tuan5\ContextMenuDemo\bin\Debug\ContextMenuDemo.pdb
+D:\LTWin\tuan5\ContextMenuDemo\obj\Debug\ADODOTNET_demo.csproj.AssemblyReference.cache
+D:\LTWin\tuan5\ContextMenuDemo\obj\Debug\ContextMenuDemo.Form1.resources
+D:\LTWin\tuan5\ContextMenuDemo\obj\Debug\ContextMenuDemo.Properties.Resources.resources
+D:\LTWin\tuan5\ContextMenuDemo\obj\Debug\ADODOTNET_demo.csproj.GenerateResource.cache
+D:\LTWin\tuan5\ContextMenuDemo\obj\Debug\ADODOTNET_demo.csproj.CoreCompileInputs.cache
+D:\LTWin\tuan5\ContextMenuDemo\obj\Debug\ContextMenuDemo.exe
+D:\LTWin\tuan5\ContextMenuDemo\obj\Debug\ContextMenuDemo.pdb

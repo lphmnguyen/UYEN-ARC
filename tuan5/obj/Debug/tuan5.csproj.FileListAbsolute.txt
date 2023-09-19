@@ -1,0 +1,12 @@
+D:\LTWin\tuan5\tuan5\bin\Debug\tuan5.exe.config
+D:\LTWin\tuan5\tuan5\bin\Debug\tuan5.exe
+D:\LTWin\tuan5\tuan5\bin\Debug\tuan5.pdb
+D:\LTWin\tuan5\tuan5\obj\Debug\tuan5.csproj.AssemblyReference.cache
+D:\LTWin\tuan5\tuan5\obj\Debug\tuan5.frmMain.resources
+D:\LTWin\tuan5\tuan5\obj\Debug\tuan5.Form2.resources
+D:\LTWin\tuan5\tuan5\obj\Debug\tuan5.Properties.Resources.resources
+D:\LTWin\tuan5\tuan5\obj\Debug\tuan5.csproj.GenerateResource.cache
+D:\LTWin\tuan5\tuan5\obj\Debug\tuan5.csproj.CoreCompileInputs.cache
+D:\LTWin\tuan5\tuan5\obj\Debug\tuan5.exe
+D:\LTWin\tuan5\tuan5\obj\Debug\tuan5.pdb
+D:\LTWin\tuan5\tuan5\obj\Debug\tuan5.Form3.resources

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tuan5", "tuan5\tuan5.csproj", "{9ABB2FC3-B11C-4455-B63A-BD85836071EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADODOTNET_demo", "ContextMenuDemo\ADODOTNET_demo.csproj", "{6B92D9B3-9A71-42CC-83FB-6B44DDA5F716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap", "BaiTap\BaiTap.csproj", "{CD3461AC-E2CC-4621-A448-7F1147CA3CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ABB2FC3-B11C-4455-B63A-BD85836071EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABB2FC3-B11C-4455-B63A-BD85836071EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABB2FC3-B11C-4455-B63A-BD85836071EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABB2FC3-B11C-4455-B63A-BD85836071EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B92D9B3-9A71-42CC-83FB-6B44DDA5F716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B92D9B3-9A71-42CC-83FB-6B44DDA5F716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B92D9B3-9A71-42CC-83FB-6B44DDA5F716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B92D9B3-9A71-42CC-83FB-6B44DDA5F716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD3461AC-E2CC-4621-A448-7F1147CA3CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3461AC-E2CC-4621-A448-7F1147CA3CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3461AC-E2CC-4621-A448-7F1147CA3CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3461AC-E2CC-4621-A448-7F1147CA3CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ABB42F6-E92E-40E5-B6FF-406A81F9C419}
+	EndGlobalSection
+EndGlobal
